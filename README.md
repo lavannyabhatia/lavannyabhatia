@@ -1,6 +1,6 @@
 <h1>Howdy!</h1>
 I am a top-rated, reliable, and experienced WordPress website developer on Upwork with 7+ years of experience in web development.
-
+&nbsp;
 
 <a href="https://www.upwork.com/fl/lavannyabhatia">Hire me on Upwork</a>
 
@@ -9,7 +9,7 @@ I am a top-rated, reliable, and experienced WordPress website developer on Upwor
 <p>Have a look at my completed recent projects portfolio on my website:https://websitewebdeveloper.com/ </p>
 
 <ul>My skills include:
-  
+ &nbsp;
 <li>WordPress Development/Customization/Improvement/Updation</li>
 <li>Divi-builder/Elementor Pro/Wp-bakery/Gutenberg</li>
 <li>Customization Expert for top WordPress theme like Avada/The7/DIVI/Salient/X/Jupiter</li>
