@@ -9,8 +9,8 @@ I am a top-rated, reliable, and experienced WordPress website developer on Upwor
 <p>Have a look at my completed recent projects portfolio on my website:https://websitewebdeveloper.com/ </p>
 
 <ul>My skills include:
- &nbsp;
-<li>WordPress Development/Customization/Improvement/Updation</li>
+
+<li>WordPress Website Development/Customization/Improvement/Updation</li>
 <li>Divi-builder/Elementor Pro/Wp-bakery/Gutenberg</li>
 <li>Customization Expert for top WordPress theme like Avada/The7/DIVI/Salient/X/Jupiter</li>
 <li>Mobile and Responsive design and features</li>
