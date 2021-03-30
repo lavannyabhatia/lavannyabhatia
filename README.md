@@ -1,12 +1,11 @@
 <h1>Howdy!</h1>
-My name is Lavannya Bhatia, a top-rated, reliable, and experienced WordPress website developer on Upwork with 7+ years of experience in web development.
-Hire me on Upwork
+I am a top-rated, reliable, and experienced WordPress website developer on Upwork with 7+ years of experience in web development.
 
-Please check my profile on Upwork for client's feedback:
+<a href="https://www.upwork.com/fl/lavannyabhatia">Hire me on Upwork</a>
 
-https://www.upwork.com/fl/lavannyabhatia
+<h2>Check my profile on Upwork for client's feedback:</h2>
 
-please have a look at my completed recent projects portfolio on my website:https://websitewebdeveloper.com/
+<h2>Have a look at my completed recent projects portfolio on my website:https://websitewebdeveloper.com/ </h2>
 
 <!---
 lavannyabhatia/lavannyabhatia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
