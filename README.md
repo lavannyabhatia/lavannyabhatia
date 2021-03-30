@@ -3,9 +3,9 @@ I am a top-rated, reliable, and experienced WordPress website developer on Upwor
 
 <a href="https://www.upwork.com/fl/lavannyabhatia">Hire me on Upwork</a>
 
-<h2>Check my profile on Upwork for client's feedback:</h2>
+<p>Check my profile on Upwork for client's feedback:</p>
 
-<h2>Have a look at my completed recent projects portfolio on my website:https://websitewebdeveloper.com/ </h2>
+<p>Have a look at my completed recent projects portfolio on my website:https://websitewebdeveloper.com/ </p>
 
 <!---
 lavannyabhatia/lavannyabhatia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
