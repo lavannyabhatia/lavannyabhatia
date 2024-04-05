@@ -6,7 +6,6 @@ I am a top-rated, reliable, and experienced WordPress website developer on Upwor
 
 <p>Check my profile on Upwork for client's feedback:</p>
 
-<p>Have a look at my completed recent projects portfolio on my website:https://websitewebdeveloper.com/ </p>
 
 <ul>My skills include:
 
